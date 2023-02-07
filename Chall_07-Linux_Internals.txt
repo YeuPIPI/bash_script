@@ -80,9 +80,9 @@ echo "[Log checketc - `date +%T` `date +%D`]"
 
 #dir file
 dir='/etc'
-listOldFiles='/home/tuandat/old_files'
-listCurrentFiles='/home/tuandat/current_files'
-listCheckFiles='/home/tuandat/check_files'
+listOldFiles='/home/user/old_files'
+listCurrentFiles='/home/user/current_files'
+listCheckFiles='/home/user/check_files'
 
 #Create file check
 createFile $listCheckFiles
